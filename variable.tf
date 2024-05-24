@@ -111,7 +111,7 @@ variable "private1_instance_device_index" {
 
 variable "private1_instance_key_name" {
   type = string
-  default = "demo"
+  default = "newkey"
 }
 
 variable "private1_instance_tags_name" {
@@ -160,7 +160,7 @@ variable "private2_instance_device_index" {
 
 variable "private2_instance_key_name" {
   type = string
-  default = "demo"
+  default = "newkey"
 }
 
 variable "private2_instance_tags_name" {
